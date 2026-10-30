@@ -12,5 +12,5 @@ Explore my personal data projects in my [Data Analyst Portfolio](https://github.
 - **Spreadsheet:** Excel, Google sheets
 
 ### ✉️ Connect with Me
-- [Linkedin](www.linkedin.com/in/renalcalde)
+- [Linkedin](https://www.linkedin.com/in/renalcalde/)
 - [Tableau](https://public.tableau.com/app/profile/ren.alcalde/vizzes)
